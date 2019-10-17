@@ -1,4 +1,4 @@
-# NEAT-Flappy-Bird
+# Flappy-Bird
 An AI that plays flappy bird! Using the NEAT python module.
 
 # Instructions
@@ -10,7 +10,7 @@ You can view on the details of this project here: https://www.youtube.com/watch?
 
 # Run in Gitpod
 
-You can also run NEAT-Flappy-Bird in Gitpod, a free online dev environment for GitHub:
+You can also run Flappy-Bird in Gitpod, a free online dev environment for GitHub:
 
 If you're intersted in a paid subscription with GitPod use the coupon code: TECHWITHTIM19
 
